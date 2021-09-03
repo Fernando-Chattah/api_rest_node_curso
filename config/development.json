@@ -1,0 +1,6 @@
+{
+    "nombre": "Api Rest Express DESA",
+    "configDB": {
+        "host" : "prueba-db-server"
+    }
+}
